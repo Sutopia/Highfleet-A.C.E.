@@ -1,7 +1,15 @@
 # Highfleet-A.C.E.
 This is a library mod intended to implement fixes and new features to Highfleet to be more enjoyable
 
-## 1.0.1 Beta release
+## How to install
+1. Go to library page in Steam
+2. Click the gear icon on the top right
+3. Hover over "Manage"
+4. Click "Browse local files"
+5. Unpack the files into the game directory you just opened
+
+## Change log
+### 1.0.1 Beta release
 
 **Fixes**
 - Triangle hull pieces erroneously having doubled weight
